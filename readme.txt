@@ -1,0 +1,1 @@
+Command line tool which accepts a .mal file containing a program written in MIPS Assembly Language, numbers the lines accordingly (skipping /n and lines containing only whitespace and also creates a cross table containing line labels, where they were defined and where they are used.
